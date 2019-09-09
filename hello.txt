@@ -1,3 +1,1 @@
-hello world! Oh my, My name is Sid
-hello Sid, My name is Binit
-How are you doing?
+hello world 
